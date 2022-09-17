@@ -3,7 +3,8 @@ html,body {
     padding: 0;
     height: 100%;
     width: 100%;
-    background-image: url(/第四阶段/04-大事件项目课程资料（第九章大事件后台管理系统项目）/day1（1-3小节）/daima/assets/images/login_bg.jpg) no-repeat center;
+    /* background-image: url(../images/login_bg.jpg) no-repeat center; */
+    background-image: url(../images/login_bg.jpg);
     background-size: cover;
 }
 
